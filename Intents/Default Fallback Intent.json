@@ -25,7 +25,7 @@
           "type": "message",
           "condition": "",
           "speech": [
-            "Sorry, I didn't get that. Our customer service team will be in touch with you shortly."
+            "Sorry, I didn't get that. Our customer service team will be in touch with you shortly.  "
           ]
         }
       ],
